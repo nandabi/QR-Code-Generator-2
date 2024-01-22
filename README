@@ -13,7 +13,7 @@ This is an application where a user can generate qr code by filling in all the i
 
 ## Introduction
 
-This web application is designed to create QR codes with customizable parameters such as data, size, colors, and more. It uses the QRServer API to generate QR codes
+This web application is designed to create QR codes with customizable parameters such as data, size, colors, and more. It uses the QRServer API to generate QR codes.
 
 ## Features
 
